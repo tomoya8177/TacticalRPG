@@ -1,0 +1,4 @@
+{
+  "isTest": true,
+  "apiEndpoint": "http://localhost:3000/"
+}
