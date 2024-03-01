@@ -1,0 +1,381 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.3.0-27405482</SDKVersion>
+	<Host>Rhino</Host>
+	<Application Vendor="Robert McNeel &amp; Associates" ProductName="Rhino3D" ProductVersion="7"/>
+	<ResourcePath>D:/unrealProjects/TacticalRPG/Content/Actors/Character</ResourcePath>
+	<User ID="33d7052449ec06182068dc9c79a0f5cf" OS="Windows 11 (22H2) [10.0.22621.3007]"/>
+	<Geolocation/>
+	<StaticMesh name="261d930a7b8c00395c6b6af8d9deb3df" label="subd_7">
+		<file path="mesh_Assets/261d930a7b8c00395c6b6af8d9deb3df.udsmesh"/>
+		<Size a="182.423965" x="6.890401" y="7.853764" z="8.804383"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a4c8ce9eea7a997c8bf3a2e04c48e8e3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="d6fc9dc631d7477ce8daa30ee96e2a0a" label="subd_8">
+		<file path="mesh_Assets/d6fc9dc631d7477ce8daa30ee96e2a0a.udsmesh"/>
+		<Size a="123.813263" x="5.937396" y="7.515796" z="5.839949"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="42da9b322cb2311a3707e9e3c8d7c93a"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="53093e951cb228a4b75686e9fa07bd47" label="subd_12">
+		<file path="mesh_Assets/53093e951cb228a4b75686e9fa07bd47.udsmesh"/>
+		<Size a="182.423889" x="6.890401" y="7.853764" z="8.804383"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f98f7f74663dc6b9ca11272e2a09e955"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="8f53d9e2819aceaf69cd2492f209cd15" label="subd_13">
+		<file path="mesh_Assets/8f53d9e2819aceaf69cd2492f209cd15.udsmesh"/>
+		<Size a="123.813255" x="5.937396" y="7.515796" z="5.839949"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="41ab5fa816a7a254dcdf49734581cdf3"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="2f1c2e4e9a45e680afbbe2b9acaf81f8" label="subd_14">
+		<file path="mesh_Assets/2f1c2e4e9a45e680afbbe2b9acaf81f8.udsmesh"/>
+		<Size a="484.182983" x="9.970974" y="13.266512" z="12.838215"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b3b8eb0f2df0b88a2cf701576a6020c"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="0f0de98cb481ce846c7fd6d7ca349446" label="subd_9">
+		<file path="mesh_Assets/0f0de98cb481ce846c7fd6d7ca349446.udsmesh"/>
+		<Size a="484.182678" x="9.970974" y="13.266512" z="12.838215"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb297f3d6a510214322ec0de17532a31"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="5b073002beb744c243788db430ebb0eb" label="subd">
+		<file path="mesh_Assets/5b073002beb744c243788db430ebb0eb.udsmesh"/>
+		<Size a="816.809875" x="18.621861" y="14.06715" z="14.215245"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="083b94649b9414c9aaba3a50e32319f6"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c87c0c365b7254be7ff2cff6b398ef3e" label="subd_3">
+		<file path="mesh_Assets/c87c0c365b7254be7ff2cff6b398ef3e.udsmesh"/>
+		<Size a="2787.890381" x="31.511745" y="20.073256" z="34.139084"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="38ea60e892557c9cfe443ff0bff6d952"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="71e9c951fb6dad8520613b72e524dd5e" label="subd_2">
+		<file path="mesh_Assets/71e9c951fb6dad8520613b72e524dd5e.udsmesh"/>
+		<Size a="564.171326" x="13.170293" y="13.170293" z="13.170336"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="48113984e5ef4d02d4ac430ca09bfd4f"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="b46b78021da283295c4ef6e597b46ed9" label="subd_17">
+		<file path="mesh_Assets/b46b78021da283295c4ef6e597b46ed9.udsmesh"/>
+		<Size a="1353.013794" x="12.553688" y="14.954639" z="40.71447"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aa5eaa32f2d375cdc68baa020f20a5f5"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="522201bbe66b0f7465f291b56a25e714" label="subd_20">
+		<file path="mesh_Assets/522201bbe66b0f7465f291b56a25e714.udsmesh"/>
+		<Size a="1353.013916" x="12.553688" y="14.954639" z="40.71447"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="efc4a7f56c64466e66cbd1c63512821d"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="a5494ec5daa6cc619d026219e2a5dfe6" label="subd_19">
+		<file path="mesh_Assets/a5494ec5daa6cc619d026219e2a5dfe6.udsmesh"/>
+		<Size a="714.526062" x="9.149324" y="9.802044" z="28.944721"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ef7237e9c556df63f905b4b27c019f2e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="4663af78e52b15f459c172aaea7331fe" label="subd_16">
+		<file path="mesh_Assets/4663af78e52b15f459c172aaea7331fe.udsmesh"/>
+		<Size a="714.526489" x="9.149324" y="9.802044" z="28.944721"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f2da157d3e3ba5f5ccfb53e01344040"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="c692a16c332bb71e6ece63a53c724e6f" label="subd_21">
+		<file path="mesh_Assets/c692a16c332bb71e6ece63a53c724e6f.udsmesh"/>
+		<Size a="894.148438" x="12.884544" y="30.64283" z="8.695045"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63a80484a4ebaef04d40426ae55469e8"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="181d2abc28344d685070904213486b13" label="subd_10">
+		<file path="mesh_Assets/181d2abc28344d685070904213486b13.udsmesh"/>
+		<Size a="416.162567" x="10.116405" y="7.02769" z="22.097675"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9d07696efa6b3a35b1cd481b765529e5"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="34fa242fdaef9b08a74569d7eea8234c" label="subd_6">
+		<file path="mesh_Assets/34fa242fdaef9b08a74569d7eea8234c.udsmesh"/>
+		<Size a="447.104156" x="12.954541" y="6.561572" z="21.731716"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba9272b818a94dcad86a45c12dcd909e"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="263811478004ecd90c88a8513d5e8805" label="subd_18">
+		<file path="mesh_Assets/263811478004ecd90c88a8513d5e8805.udsmesh"/>
+		<Size a="894.148499" x="12.884544" y="30.64283" z="8.695045"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="07498a40569a28ecaef567a5005ec549"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="429571b4a8f8ab327bfe2d6f9026aff3" label="subd_15">
+		<file path="mesh_Assets/429571b4a8f8ab327bfe2d6f9026aff3.udsmesh"/>
+		<Size a="416.162506" x="10.116405" y="7.02769" z="22.097675"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f5b2454563b8c36c51090700e58f09d2"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="88a6d410e171fa3494927741e5d6a9bc" label="subd_11">
+		<file path="mesh_Assets/88a6d410e171fa3494927741e5d6a9bc.udsmesh"/>
+		<Size a="447.104279" x="12.954541" y="6.561572" z="21.731716"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="124b82e5331ef2d156adbffcf1c0c2b7"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="9e889265cd2c79eed729540449265248" label="subd_4">
+		<file path="mesh_Assets/9e889265cd2c79eed729540449265248.udsmesh"/>
+		<Size a="2736.717773" x="26.898642" y="28.279665" z="30.919546"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a2a46d7daa1d68bf943e4539f769b879"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<StaticMesh name="bdea9025184e23b62d23c9f09ada8231" label="subd_5">
+		<file path="mesh_Assets/bdea9025184e23b62d23c9f09ada8231.udsmesh"/>
+		<Size a="691.123169" x="17.417503" y="12.190196" z="19.0221"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7e86b23e2e4ad438371b71fb00a4fc37"/>
+		<Material id="0" name="eec34d804c9ce6c89cff596be555e6a4"/>
+	</StaticMesh>
+	<Actor name="9d07ceafd92c2adb3a100fa274c80cbf" label="Default" layer="Default">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: b07b5d4c-1029-41ee-838e-c3e611508f44" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="e45797315fe0bc163c4d49253893eea4" label="subd" layer="Default">
+				<mesh name="5b073002beb744c243788db430ebb0eb"/>
+				<Transform tx="-0.0" ty="-17.248079" tz="69.582207" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: abb3b438-7486-4fc7-8963-e9ffb3dd5e67" />
+				<tag value="Rhino.Entity.Type: subd" />
+			</ActorMesh>
+			<ActorMesh name="9e1916d89dac99e97fe247da412aa365" label="subd_2" layer="Default">
+				<mesh name="71e9c951fb6dad8520613b72e524dd5e"/>
+				<Transform tx="0.0" ty="-15.511211" tz="78.005295" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 10cc379c-9f6b-4633-b497-6f8b0f5bb04c" />
+				<tag value="Rhino.Entity.Type: subd" />
+			</ActorMesh>
+			<Actor name="7036e99dcfab72ac2e68c424717415d4" label="spine" layer="Default_spine,Default">
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: bf860b3b-7ac4-463b-8200-d304e3ab0fc7" />
+				<tag value="Rhino.Entity.Type: layer" />
+				<children visible="true">
+					<ActorMesh name="036e5ea2b0fdebc00596b97c081ad27a" label="subd_3" layer="Default_spine,Default">
+						<mesh name="c87c0c365b7254be7ff2cff6b398ef3e"/>
+						<Transform tx="-0.0" ty="-15.699467" tz="84.372986" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: ad9415b8-d50f-43d1-ad5e-c7eb6920377a" />
+						<tag value="Rhino.Entity.Type: subd" />
+					</ActorMesh>
+					<ActorMesh name="b474b4e1f4b259b5619b92cc21c23caf" label="subd_4" layer="Default_spine,Default">
+						<mesh name="9e889265cd2c79eed729540449265248"/>
+						<Transform tx="-0.0" ty="-16.668756" tz="124.772217" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: 7b633813-fc2e-456f-a1f5-69264cc4033c" />
+						<tag value="Rhino.Entity.Type: subd" />
+					</ActorMesh>
+					<ActorMesh name="67d05a52e7e9cd9c83641ca36fdc200a" label="subd_5" layer="Default_spine,Default">
+						<mesh name="bdea9025184e23b62d23c9f09ada8231"/>
+						<Transform tx="-0.0" ty="-17.483526" tz="114.680573" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: f676ef22-6d4f-4cc7-a1e9-dc9246257a3a" />
+						<tag value="Rhino.Entity.Type: subd" />
+					</ActorMesh>
+					<Actor name="b13c2351c389ca13a77e978a3a307843" label="RightArm" layer="Default_spine_RightArm,Default_spine,Default">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: e18b0e54-26d1-4521-9bb5-79f670ef3f28" />
+						<tag value="Rhino.Entity.Type: layer" />
+						<children visible="true">
+							<ActorMesh name="af2ab42febfece0bdaafa34eb1510fd2" label="subd_6" layer="Default_spine_RightArm,Default_spine,Default">
+								<mesh name="34fa242fdaef9b08a74569d7eea8234c"/>
+								<Transform tx="-19.456736" ty="-17.205959" tz="94.389091" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: e0ac3c8d-7f21-4e62-a4f3-381c9e308178" />
+								<tag value="Rhino.Entity.Type: subd" />
+							</ActorMesh>
+							<Actor name="31d2150c3418324a3a5b1ae0dc2a8c19" label="RightHand" layer="Default_spine_RightArm_RightHand,Default_spine_RightArm,Default_spine,Default">
+								<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: c006a3d5-0ae3-46aa-bdde-fb7bd62ab5c7" />
+								<tag value="Rhino.Entity.Type: layer" />
+								<children visible="true">
+									<ActorMesh name="db0fc39ad95355dbfdd014c70a046d83" label="subd_7" layer="Default_spine_RightArm_RightHand,Default_spine_RightArm,Default_spine,Default">
+										<mesh name="261d930a7b8c00395c6b6af8d9deb3df"/>
+										<Transform tx="-30.158419" ty="-14.167659" tz="65.670944" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 0b9801b7-adb6-49b1-87bc-22e96a60ce8c" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="c02f58be8fb9dc62fc923409979f356b" label="subd_8" layer="Default_spine_RightArm_RightHand,Default_spine_RightArm,Default_spine,Default">
+										<mesh name="d6fc9dc631d7477ce8daa30ee96e2a0a"/>
+										<Transform tx="-28.858578" ty="-13.690756" tz="63.720364" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 6b76a23a-65ea-4fcd-97b0-c4cfaaa774d7" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="d1a254ac7f61551156e6815748648279" label="subd_9" layer="Default_spine_RightArm_RightHand,Default_spine_RightArm,Default_spine,Default">
+										<mesh name="0f0de98cb481ce846c7fd6d7ca349446"/>
+										<Transform tx="-32.61282" ty="-16.715906" tz="62.758663" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 6132ac67-f24e-46b7-adc8-6e190b953297" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="bdf2bcad32411330d3001461c843d11a" label="subd_10" layer="Default_spine_RightArm_RightHand,Default_spine_RightArm,Default_spine,Default">
+										<mesh name="181d2abc28344d685070904213486b13"/>
+										<Transform tx="-27.65209" ty="-17.223953" tz="74.009933" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 25918170-38d2-41fb-925d-e28929bc2bfe" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+					<Actor name="1ad38523dd4586a63b19e4786a5b1e8d" label="LeftArm" layer="Default_spine_LeftArm,Default_spine,Default">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: 5cf4b116-12e9-4633-80ed-a6967c4bbace" />
+						<tag value="Rhino.Entity.Type: layer" />
+						<children visible="true">
+							<ActorMesh name="a586c63a2ca0f0ae4650861fc1b1a52b" label="subd_11" layer="Default_spine_LeftArm,Default_spine,Default">
+								<mesh name="88a6d410e171fa3494927741e5d6a9bc"/>
+								<Transform tx="19.456736" ty="-17.205959" tz="94.389091" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: dfe8941e-ce96-467c-82d3-6ec2988d95da" />
+								<tag value="Rhino.Entity.Type: subd" />
+							</ActorMesh>
+							<Actor name="9bf01e82d7eeb3e338542430e37490f3" label="LeftHand" layer="Default_spine_LeftArm_LeftHand,Default_spine_LeftArm,Default_spine,Default">
+								<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: 04c083f1-b108-4432-b7e4-43dbe7785209" />
+								<tag value="Rhino.Entity.Type: layer" />
+								<children visible="true">
+									<ActorMesh name="f5e92749a2cbe564365172728713ac27" label="subd_12" layer="Default_spine_LeftArm_LeftHand,Default_spine_LeftArm,Default_spine,Default">
+										<mesh name="53093e951cb228a4b75686e9fa07bd47"/>
+										<Transform tx="30.158419" ty="-14.167659" tz="65.670944" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 586e965c-60bc-43bc-86de-37305395ba45" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="f8bb2e96d9566ae1d0a87482bd7245ae" label="subd_13" layer="Default_spine_LeftArm_LeftHand,Default_spine_LeftArm,Default_spine,Default">
+										<mesh name="8f53d9e2819aceaf69cd2492f209cd15"/>
+										<Transform tx="28.858578" ty="-13.690756" tz="63.720364" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 906a3e33-3291-4be8-8b1e-b8a20fe1cf68" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="3f7853fe87af82acc15b794c4c21933e" label="subd_14" layer="Default_spine_LeftArm_LeftHand,Default_spine_LeftArm,Default_spine,Default">
+										<mesh name="2f1c2e4e9a45e680afbbe2b9acaf81f8"/>
+										<Transform tx="32.61282" ty="-16.715906" tz="62.758663" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 336bb7fd-5abd-4f22-b275-0ac292994e15" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="81e3f43f723e54422f10c161d975e138" label="subd_15" layer="Default_spine_LeftArm_LeftHand,Default_spine_LeftArm,Default_spine,Default">
+										<mesh name="429571b4a8f8ab327bfe2d6f9026aff3"/>
+										<Transform tx="27.65209" ty="-17.223953" tz="74.009933" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 47599cfa-de5b-49f1-bfaa-75eaf4cd163f" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+					<Actor name="c2afac4988abf2b26e428fd9bc6bc847" label="RightLeg" layer="Default_spine_RightLeg,Default_spine,Default">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: 93d3c60b-24fa-4167-a918-31c8c56548b9" />
+						<tag value="Rhino.Entity.Type: layer" />
+						<children visible="true">
+							<ActorMesh name="1a53bf861ad11c6d860a1cb56f66d947" label="subd_16" layer="Default_spine_RightLeg,Default_spine,Default">
+								<mesh name="4663af78e52b15f459c172aaea7331fe"/>
+								<Transform tx="-6.668748" ty="-17.106558" tz="44.684845" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: 504cf88e-2c80-476b-8f85-70835cc67526" />
+								<tag value="Rhino.Entity.Type: subd" />
+							</ActorMesh>
+							<Actor name="672cd97eec28dfefdc66ac0bf66ccc5a" label="RightFoot" layer="Default_spine_RightLeg_RightFoot,Default_spine_RightLeg,Default_spine,Default">
+								<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: 4418422f-22c2-4408-9620-9ce7693c8fb2" />
+								<tag value="Rhino.Entity.Type: layer" />
+								<children visible="true">
+									<ActorMesh name="deba8051691b3f2ddc14143fb47216d7" label="subd_17" layer="Default_spine_RightLeg_RightFoot,Default_spine_RightLeg,Default_spine,Default">
+										<mesh name="b46b78021da283295c4ef6e597b46ed9"/>
+										<Transform tx="-8.947952" ty="-19.235128" tz="6.422603" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 4d7f6a3b-6fc3-48f4-855c-f50a031f5924" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="50fada71f50759476324bddc9cde9711" label="subd_18" layer="Default_spine_RightLeg_RightFoot,Default_spine_RightLeg,Default_spine,Default">
+										<mesh name="263811478004ecd90c88a8513d5e8805"/>
+										<Transform tx="-10.51067" ty="-11.180065" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 8178946a-387b-49be-9dc1-ccb618ec8b3d" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+					<Actor name="ed56f35fb775b939c6acb8d4d88346d4" label="LeftLeg" layer="Default_spine_LeftLeg,Default_spine,Default">
+						<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Rhino.ID: a4000c08-4ad1-44f3-babd-02eca37e7c55" />
+						<tag value="Rhino.Entity.Type: layer" />
+						<children visible="true">
+							<ActorMesh name="9723bd10f33ab65395bfec62cf4f4db8" label="subd_19" layer="Default_spine_LeftLeg,Default_spine,Default">
+								<mesh name="a5494ec5daa6cc619d026219e2a5dfe6"/>
+								<Transform tx="6.668748" ty="-17.106558" tz="44.684845" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: 3ffaf398-4d7d-418f-85be-ebdc6ba1f1e0" />
+								<tag value="Rhino.Entity.Type: subd" />
+							</ActorMesh>
+							<Actor name="32c0f01498527c48c82a5a474ee9343e" label="LeftFoot" layer="Default_spine_LeftLeg_LeftFoot,Default_spine_LeftLeg,Default_spine,Default">
+								<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+								<tag value="Rhino.ID: 6ea5ba80-5d2f-4605-bbca-bfbce7225648" />
+								<tag value="Rhino.Entity.Type: layer" />
+								<children visible="true">
+									<ActorMesh name="9c6494e21de8315c77f76fdac495438c" label="subd_20" layer="Default_spine_LeftLeg_LeftFoot,Default_spine_LeftLeg,Default_spine,Default">
+										<mesh name="522201bbe66b0f7465f291b56a25e714"/>
+										<Transform tx="8.947952" ty="-19.235128" tz="6.422603" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: f27a66d5-cd13-426d-bbf6-29402ace22f0" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+									<ActorMesh name="14bda1db9c8950eaaf8e7def34b2a146" label="subd_21" layer="Default_spine_LeftLeg_LeftFoot,Default_spine_LeftLeg,Default_spine,Default">
+										<mesh name="c692a16c332bb71e6ece63a53c724e6f"/>
+										<Transform tx="10.51067" ty="-11.180065" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+										<tag value="Rhino.ID: 7e94aa72-f4b9-4357-96fb-5fc7c124fc4a" />
+										<tag value="Rhino.Entity.Type: subd" />
+									</ActorMesh>
+								</children>
+							</Actor>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<UEPbrMaterial name="eec34d804c9ce6c89cff596be555e6a4" label="material">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.955973,G=0.955973,B=0.955973,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
